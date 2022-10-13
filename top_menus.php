@@ -16,7 +16,7 @@
     {
 ?>
         <li id="clients" class="active"><a href="clients.php">Clients</a></li>
-        <li id= "projects"><a href="project.php">Project</a></li>
+        <li id= "projects"><a href="projects.php">Project</a></li>
 
 <?php } ?>
 
